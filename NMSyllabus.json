@@ -1,0 +1,266 @@
+{
+  "Chemistry": {
+    "Basic Concepts": [
+      "Basic concepts of Chemistry",
+      "Structure of Atom",
+      "Classification of Elements and Periodicity in Properties",
+      "Chemical Bonding and Molecular Structure",
+      "Chemical Thermodynamics",
+      "Equilibrium",
+      "Redox Reactions",
+      "Hydrocarbons",
+      "Solution",
+      "Electrochemistry",
+      "Chemical Kinetics",
+      "d- and f- Block Elements",
+      "Coordination Compounds",
+      "Haloalkanes and Haloarenes",
+      "Alcohols, Phenols and Ethers",
+      "Aldehydes and Carboxylic Acids",
+      "Amines and Biomolecules"
+    ],
+    "Physical Chemistry": [
+      "Atomic and Molecular Structure",
+      "States of Matter - Gaseous, Liquid, and Solid",
+      "Chemical Thermodynamics",
+      "Chemical and Phase Equilibria",
+      "Solutions and Colligative Properties",
+      "Electrochemistry and Electrochemical Cells",
+      "Chemical Kinetics and Enzyme Catalysis",
+      "Adsorption and Colloidal Solutions",
+      "Molecular Spectroscopy"
+    ],
+    "Organic Chemistry": [
+      "Basic Concepts in Organic Chemistry",
+      "Stereochemistry and Conformational Analysis",
+      "Organic Reaction Mechanism and its Applications",
+      "Nucleophilic Substitution Reactions",
+      "Nucleophilic Addition Reactions",
+      "Electrophilic Addition Reactions",
+      "Elimination Reactions",
+      "Name Reactions and Rearrangements",
+      "Qualitative Organic Analysis",
+      "Organic Spectroscopy (UV-Visible, IR, NMR)",
+      "Basics of Natural Products and Biochemistry",
+      "Aromatic Nucleophilic and Electrophilic Substitution Reactions",
+      "Free Radical Reactions",
+      "Heterocyclic Chemistry",
+      "Polymer Chemistry"
+    ],
+    "Inorganic Chemistry": [
+      "Periodic Table and Periodic Properties",
+      "Extraction of Metals and Metallurgy",
+      "Structure of Atom",
+      "Chemical and Ionic Bonding - Geometry, Shape, and Hybridization",
+      "VSEPR and Molecular Orbital Theory",
+      "Main Group Elements (s and p-blocks)",
+      "Transition Metals (d-block) and Inner-Transition Elements (f-block)",
+      "Bioinorganic Chemistry",
+      "Nuclear Chemistry",
+      "Analytical Chemistry",
+      "Coordination Chemistry"
+    ]
+  },
+  "Physics": {
+    "Mechanics and Thermodynamics": [
+      "Physical World and Measurement",
+      "Kinematics",
+      "Laws of Motion",
+      "Work, Energy and Power",
+      "System of Particles and Rotational Motion",
+      "Gravitation",
+      "Mechanical Properties of Solids and Fluids",
+      "Thermal Properties of Matter",
+      "Thermodynamics",
+      "Kinetic Theory of Gases",
+      "Oscillations and Waves"
+    ],
+    "Electromagnetism and Optics": [
+      "Electrostatics",
+      "Current Electricity",
+      "Magnetic Effects of Current and Magnetism",
+      "Electromagnetic Induction and Alternating Currents",
+      "Electromagnetic Waves",
+      "Ray Optics and Optical Instruments",
+      "Wave Optics"
+    ],
+    "Modern Physics": [
+      "Dual Nature of Radiation and Matter",
+      "Semiconductor Electronics - Materials, Devices, and Circuits",
+      "Photoelectric Effect and Compton Scattering",
+      "De Broglie Wavelength and Matter Waves",
+      "Heisenberg Uncertainty Principle",
+      "Schrodinger Equations (Time-dependent and Independent)",
+      "Electron Angular Momentum and Spin",
+      "Stern-Gerlach Experiment",
+      "Zeeman Effect (Normal and Anomalous)",
+      "Pauli’s Exclusion Principle",
+      "Fine Structure and Spin-Orbit Coupling"
+    ],
+    "Relativity": [
+      "Co-ordinate Systems and Solid Angle",
+      "Space-time Symmetries and Conservation Laws",
+      "Inertial and Non-Inertial Frames",
+      "Coriolis Force and its Applications",
+      "Inverse Square Law Forces",
+      "Michelson-Morley Experiment",
+      "Special Theory of Relativity",
+      "Lorentz Transformations",
+      "Length Contraction and Time Dilation",
+      "Mass-Energy Equivalence and Relativistic Momentum"
+    ],
+    "Electrodynamics": [
+      "Electrostatic Field and Potential",
+      "Poisson and Laplace Equations",
+      "Ohm’s Law and Microscopic Form",
+      "Ampere’s Circuital Law and Applications",
+      "Hall Effect",
+      "Dielectrics and Polarization",
+      "Clausius-Mossotti Equation",
+      "Boundary Conditions for E and D",
+      "Diamagnetism, Paramagnetism, Ferromagnetism",
+      "Maxwell’s Equations and Poynting Theorem",
+      "EM Waves in Conducting Medium"
+    ],
+    "Statistical and Thermal Physics": [
+      "Scope of Statistical Physics",
+      "Macro-states, Micro-states, and Thermodynamic Probability",
+      "M-B, B-E, F-D Statistics and Applications",
+      "Statistical Entropy and Law of Entropy Increase",
+      "Reversible and Irreversible Processes",
+      "Thermodynamic Potentials and Maxwell Relations"
+    ],
+    "Oscillations and Waves": [
+      "Simple Harmonic, Damped, Forced, and Coupled Oscillators",
+      "Interference (Division of Wavefront and Amplitude)",
+      "Young’s Double Slit, Lloyd’s Mirror, Fresnel’s Biprism",
+      "Interference in Thin Films and Newton’s Rings",
+      "Diffraction (Fraunhofer and Fresnel)",
+      "Polarization and Birefringence"
+    ],
+    "Solid State and Electronics": [
+      "Unit Cell, Miller Indices, and Bragg’s Law",
+      "Crystal Structures and Brillouin Zones",
+      "Specific Heat Theories (Einstein & Debye)",
+      "Fermi Gas and Energy",
+      "Kronig-Penney Model",
+      "Semiconductors and Superconductivity",
+      "Diodes and Transistors",
+      "Amplifiers and Feedback",
+      "FET and MOSFET Devices"
+    ],
+    "Nuclear and Particle Physics": [
+      "Nuclear Models and Radioactivity",
+      "Nuclear Reactions and Detectors",
+      "Elementary Particles and Classifications",
+      "Conservation Laws",
+      "Quark Model and Symmetries"
+    ]
+  },
+  "Mathematics": {
+    "Basic Concepts": [
+      "Sets, Relations, and Functions",
+      "Trigonometric and Inverse Trigonometric Functions",
+      "Coordinate Geometry",
+      "Statistics",
+      "Real and Complex Numbers",
+      "Quadratic Equations",
+      "Linear Inequalities",
+      "Permutations and Combinations",
+      "Binomial Theorem",
+      "Arithmetic and Geometric Progression",
+      "Relations between A.M. and G.M."
+    ],
+    "Matrices and Algebra": [
+      "Matrices, Algebra, and Determinants",
+      "Inverse of Matrix and Applications",
+      "System of Linear Equations",
+      "Groups and Subgroups",
+      "Lagrange’s and Isomorphism Theorems",
+      "Rings, Ideals, Fields, and Integral Domains"
+    ],
+    "Vector and Linear Algebra": [
+      "Vector Spaces and Quotient Spaces",
+      "Linear Combinations and Transformations",
+      "Rank and Nullity",
+      "Matrix Representation",
+      "Eigenvalues and Eigenvectors"
+    ],
+    "Calculus": [
+      "Limits, Continuity, and Differentiability",
+      "Successive Differentiation and Leibnitz’s Theorem",
+      "Applications of Derivatives (Maxima, Minima, Theorems)",
+      "Concavity, Convexity, and Curvature",
+      "Polar Coordinates and Asymptotes",
+      "Functions of Multiple Variables and Jacobians",
+      "Taylor’s and Cauchy’s Theorems"
+    ],
+    "Complex Analysis": [
+      "Limits and Continuity of Complex Functions",
+      "Cauchy-Riemann Equations and Analytic Functions",
+      "Exponential and Mapping Functions"
+    ],
+    "Differential Equations": [
+      "Order and Degree of Differential Equations",
+      "Homogeneous and Linear Equations",
+      "Exact Equations and Clairaut’s Form",
+      "Simultaneous and Partial Differential Equations",
+      "Classification of PDEs"
+    ],
+    "Numerical Methods": [
+      "Bisection, False Position, Newton, Secant Methods",
+      "Gauss-Jacobi and Gauss-Seidel Methods",
+      "Interpolation (Lagrange and Newton)",
+      "Numerical Differentiation and Integration (Trapezoidal, Simpson’s Rule)"
+    ],
+    "Geometry and Vector Calculus": [
+      "Straight Lines, Circles, Conics, and 3D Geometry",
+      "Vectors, Direction Ratios, Cosines",
+      "Gradient, Divergence, and Curl"
+    ],
+    "Probability and Statistics": [
+      "Mean Deviation, Variance, Standard Deviation",
+      "Probability, Conditional Probability, Bayes Theorem",
+      "Total Probability and Independent Events"
+    ],
+    "Linear Programming": [
+      "Objective Function and Optimization",
+      "Feasible and Infeasible Regions",
+      "Graphical Method for LPP"
+    ]
+  },
+  "B.Ed Subjects": {
+    "Core Papers": [
+      "Childhood and Development Years",
+      "Contemporary India and Education",
+      "Language Across the Curriculum",
+      "Understanding Disciplines and Subjects",
+      "Text Reading and Reflections",
+      "Learning and Teaching",
+      "Assessment for Learning",
+      "Drama and Art in Education",
+      "Teaching of Physical Science and Mathematics",
+      "Knowledge and Curriculum",
+      "Gender, School and Society",
+      "Inclusive School",
+      "ICT in Teaching-Learning Process",
+      "Understanding the Self",
+      "Health and Physical Education",
+      "Vocational and Work Education",
+      "Education for Peace",
+      "Guidance and Counseling"
+    ]
+  },
+  "General Knowledge": {
+    "GK (10th Level)": [
+      "General Knowledge of India",
+      "General Knowledge of Himachal Pradesh"
+    ],
+    "Current Affairs": ["Current Affairs (10th Standard)"],
+    "Everyday Science": ["Everyday Science (10th Standard)"],
+    "Logical Reasoning": ["Logical Reasoning (10th Standard)"],
+    "Social Science": ["Social Science (10th Standard)"],
+    "General English": ["General English (10th Standard)"],
+    "General Hindi": ["General Hindi (10th Standard)"]
+  }
+}
