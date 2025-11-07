@@ -147,28 +147,7 @@ function displayResults(viewType) {
     }
 }
 
-// Expand All Cards
-function expandAll() {
-    document.querySelectorAll('.card .collapse').forEach(el => el.classList.add('show'));
-}
 
-// Collapse All Cards
-function collapseAll() {
-    document.querySelectorAll('.card .collapse').forEach(el => el.classList.remove('show'));
-}
-
-// Export Filtered JSON
-function exportFilteredJSON() {
-    const blob = new Blob([JSON.stringify(filteredData, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-
-    const a = document.createElement('a');
-    a.href = url;
-    a.download = 'Filtered_Syllabus.json';
-    a.click();
-
-    URL.revokeObjectURL(url);
-}
 
 // Event Listeners
 document.getElementById('subjectSelect').addEventListener('change', e => {
